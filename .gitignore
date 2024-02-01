@@ -1,0 +1,14 @@
+build
+dist
+__pycache__
+AVR-FLASHER.spec
+avrdude.conf
+avrdude.exe
+doc.txt
+favicon_3.ico
+giveio.sys
+install_giveio.bat
+libusb0.dll
+loaddrv.exe
+remove_giveio.bat
+status_giveio.bat
